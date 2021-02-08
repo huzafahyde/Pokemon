@@ -1,0 +1,54 @@
+
+hooh.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+animation
+  rotate: false
+  xy: 1, 115
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: 3
+animation
+  rotate: false
+  xy: 137, 116
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: 6
+animation
+  rotate: false
+  xy: 273, 120
+  size: 131, 129
+  orig: 131, 129
+  offset: 0, 0
+  index: 5
+animation
+  rotate: false
+  xy: 1, 1
+  size: 134, 112
+  orig: 134, 112
+  offset: 0, 0
+  index: 1
+animation
+  rotate: false
+  xy: 137, 4
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: 7
+animation
+  rotate: false
+  xy: 406, 128
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: 4
+animation
+  rotate: false
+  xy: 273, 16
+  size: 128, 102
+  orig: 128, 102
+  offset: 0, 0
+  index: 2

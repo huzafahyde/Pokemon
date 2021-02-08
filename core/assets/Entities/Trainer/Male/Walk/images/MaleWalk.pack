@@ -1,0 +1,89 @@
+
+MaleWalk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walkdown2
+  rotate: false
+  xy: 0, 0
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+walkleft2
+  rotate: false
+  xy: 21, 0
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+walkright2
+  rotate: false
+  xy: 42, 0
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+walkup2
+  rotate: false
+  xy: 63, 0
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+walkdown1
+  rotate: false
+  xy: 84, 0
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+walkdown3
+  rotate: false
+  xy: 104, 0
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+walkleft1
+  rotate: false
+  xy: 124, 0
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+walkleft3
+  rotate: false
+  xy: 144, 0
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+walkright1
+  rotate: false
+  xy: 164, 0
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+walkright3
+  rotate: false
+  xy: 184, 0
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+walkup1
+  rotate: false
+  xy: 204, 0
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+walkup3
+  rotate: false
+  xy: 224, 0
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
